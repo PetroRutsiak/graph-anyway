@@ -1,2 +1,8 @@
 example of some really good code
+<<<<<<< HEAD
 this was made by another developer
+=======
+.git 
+code 
+readme.md
+>>>>>>> origin/master
